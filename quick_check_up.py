@@ -1,5 +1,5 @@
 # Print Hello User!
-print("Hello User!")
+print("Hello User!What a good day it is")
 
 # Take in User Input
 name = input("What is your name? ")
