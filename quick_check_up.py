@@ -1,6 +1,9 @@
 # Print Hello User!
 print("Hello User!What a good day it is")
 
+# Print test
+print("test")
+
 # Take in User Input
 name = input("What is your name? ")
 
